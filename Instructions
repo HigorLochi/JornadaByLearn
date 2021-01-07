@@ -1,0 +1,19 @@
+# Objective
+# Defeat the opponent
+
+# Overall stats
+# Player life = 100
+# Player damage = 1 - 10
+# Player critical rate = 20%
+# Monster life = 150
+# Monster damage = 1 - 15
+# Monster critical rate = 20%
+
+# Player options
+# - Attack( will attack the opponent dealing or not crit damage)
+# - Defend( opponent will deal only 50% of his base attack)
+# - Evade( the opponent's attack will be 50% evadable)
+
+# Monster options
+# Attack( will attack the player dealing or not crit damage)
+# Stop ( the monster will do nothing)
