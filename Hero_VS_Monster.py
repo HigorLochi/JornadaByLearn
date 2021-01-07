@@ -33,7 +33,6 @@ while playerLife > 0 and monsterLife > 0:
     playerStrength = rand.randint(1,10)
     playerDefense = 0
     monsterStrength = rand.randint(1,15)
-    monsterDefense = 0
     monsterChoice = rand.randint(0,100)
     critic = False
     critRate = rand.randint(0,100)
